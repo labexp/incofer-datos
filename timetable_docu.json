@@ -1,0 +1,80 @@
+{
+  "update" : "date ISO format",
+  "itinerario" :
+  {
+    "master route reference":
+    [
+      {
+        "from" : "departure stop - route variant",
+        "to" : "arrival stop - route variant",
+        "operacion": "service days (weekdays | weekend | Sa | Su )",
+        "estaciones" : ["departure stop", "stop 2", "stop 3", "...", "arrival stop"],
+        "horarios":
+        [
+          ["first trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "first trip arrival time (HH:MM)"],
+          ["second trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "second trip arrival time (HH:MM)"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["...", "...", "...", "...", "..."],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["last trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "last trip arrival time (HH:MM)"]
+        ]
+      },
+      {
+        "from" : "departure stop - another route variant",
+        "to" : "arrival stop - another route variant",
+        "operacion": "weekday",
+        "estaciones" : ["departure stop", "stop 2", "stop 3", "...", "arrival stop"],
+        "horarios":
+        [
+          ["first trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "first trip arrival time (HH:MM)"],
+          ["second trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "second trip arrival time (HH:MM)"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["...", "...", "...", "...", "..."],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["last trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "last trip arrival time (HH:MM)"]
+        ]
+      }
+    ],
+    "another master route reference":
+    [
+      {
+        "from" : "departure stop - route variant",
+        "to" : "arrival stop - route variant",
+        "operacion": "service days (weekdays | weekend | Sa | Su )",
+        "estaciones" : ["departure stop", "stop 2", "stop 3", "...", "arrival stop"],
+        "horarios":
+        [
+          ["first trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "first trip arrival time (HH:MM)"],
+          ["second trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "second trip arrival time (HH:MM)"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["...", "...", "...", "...", "..."],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["last trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "last trip arrival time (HH:MM)"]
+        ]
+      },
+      {
+        "from" : "departure stop - another route variant",
+        "to" : "arrival stop - another route variant",
+        "operacion": "weekday",
+        "estaciones" : ["departure stop", "stop 2", "stop 3", "...", "arrival stop"],
+        "horarios":
+        [
+          ["first trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "first trip arrival time (HH:MM)"],
+          ["second trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "second trip arrival time (HH:MM)"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["...", "...", "...", "...", "..."],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["HH:MM", "HH:MM", "HH:MM", "HH:MM", "HH:MM"],
+          ["last trip departure time (HH:MM)", "HH:MM", "HH:MM", "HH:MM", "last trip arrival time (HH:MM)"]
+        ]
+      }
+    ],
+  }
+}

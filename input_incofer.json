@@ -1,5 +1,5 @@
 {
-  "update" : "04.09.2018",
+  "update" : "17.05.2019",
   "itinerario" :
   {
     "2":
@@ -8,7 +8,7 @@
         "from" : "Estación Heredia",
         "to" : "Estación Atlántico",
         "operacion": "weekday",
-        "estaciones" : ["Estación Heredia", "Miraflores", "Santa Rosa", "Cuatro Reinas","Calle Blancos", "Estación Atlántico"],
+        "estaciones" : ["Estación Heredia", "Miraflores", "Santa Rosa", "Colima","Calle Blancos", "Estación Atlántico"],
         "horarios":
         [
           ["06:00","06:04", "06:12", "06:17","06:21", "06:26"],
@@ -27,7 +27,7 @@
         "from" : "Estación Heredia",
         "to" : "U. Latina",
         "operacion": "weekday",
-        "estaciones" : ["Estación Heredia", "Miraflores", "Santa Rosa", "Cuatro Reinas","Calle Blancos", "Estación Atlántico", "UCR", "U. Latina"],
+        "estaciones" : ["Estación Heredia", "Miraflores", "Santa Rosa", "Colima","Calle Blancos", "Estación Atlántico", "UCR", "U. Latina"],
         "horarios":
         [
           ["06:34", "06:38", "06:46", "06:51","06:55", "07:00", "07:04", "07:08"],
@@ -39,7 +39,7 @@
         "from" : "Alajuela",
         "to" : "Estación Atlántico",
         "operacion": "weekday",
-        "estaciones" : ["Alajuela", "Bulevar Aeropuerto", "Río Segundo", "San Joaquín de Flores", "San Francisco", "Estación Heredia", "Miraflores", "Santa Rosa", "Cuatro Reinas","Calle Blancos", "Estación Atlántico"],
+        "estaciones" : ["Alajuela", "Bulevar Aeropuerto", "Río Segundo", "San Joaquín de Flores", "San Francisco", "Estación Heredia", "Miraflores", "Santa Rosa", "Colima","Calle Blancos", "Estación Atlántico"],
         "horarios":
         [
           ["05:45", "05:50", "05:54", "06:00", "06:05", "06:09", "06:13", "06:21", "06:26","06:30", "06:35"],
@@ -53,7 +53,7 @@
         "from" : "Estación Atlántico",
         "to" : "Estación Heredia",
         "operacion": "weekday",
-        "estaciones" : ["Estación Atlántico","Calle Blancos", "Cuatro Reinas", "Santa Rosa", "Miraflores", "Estación Heredia"],
+        "estaciones" : ["Estación Atlántico","Calle Blancos", "Colima", "Santa Rosa", "Miraflores", "Estación Heredia"],
         "horarios": [
           ["05:25","05:30", "05:34", "05:39", "05:47", "05:52"],
           ["05:45","05:50", "05:54", "05:59", "06:07", "06:12"],
@@ -70,7 +70,7 @@
         "from" : "U. Latina",
         "to" : "Estación Heredia",
         "operacion": "weekday",
-        "estaciones" : ["U. Latina", "UCR", "Estación Atlántico","Calle Blancos", "Cuatro Reinas", "Santa Rosa", "Miraflores", "Estación Heredia"],
+        "estaciones" : ["U. Latina", "UCR", "Estación Atlántico","Calle Blancos", "Colima", "Santa Rosa", "Miraflores", "Estación Heredia"],
         "horarios": [
           ["05:45", "05:49", "05:59","06:04", "06:08", "06:13", "06:21", "06:26"],
           ["07:12", "07:16", "07:30","07:35", "07:39", "07:44", "07:52", "07:57"],
@@ -82,7 +82,7 @@
         "from" : "Estación Atlántico",
         "to" : "Alajuela",
         "operacion": "weekday",
-        "estaciones" : ["Estación Atlántico","Calle Blancos", "Cuatro Reinas", "Santa Rosa", "Miraflores", "Estación Heredia", "San Francisco", "San Joaquín de Flores", "Río Segundo", "Bulevar Aeropuerto", "Alajuela"],
+        "estaciones" : ["Estación Atlántico","Calle Blancos", "Colima", "Santa Rosa", "Miraflores", "Estación Heredia", "San Francisco", "San Joaquín de Flores", "Río Segundo", "Bulevar Aeropuerto", "Alajuela"],
         "horarios": [
           ["04:45","04:50", "04:54", "04:59", "05:07", "05:12", "05:15", "05:20", "05:27", "05:30", "05:35"],
           ["06:45","06:50", "06:54", "06:59", "07:07", "07:12", "07:15", "07:20", "07:27", "07:30", "07:35"],
@@ -95,7 +95,7 @@
         "from" : "Alajuela",
         "to" : "Estación Atlántico",
         "operacion": "saturday",
-        "estaciones" : ["Alajuela","Bulevar Aeropuerto","Río Segundo", "San Joaquín de Flores", "San Francisco", "Estación Heredia", "Miraflores", "Santa Rosa", "Cuatro Reinas","Calle Blancos", "Estación Atlántico"],
+        "estaciones" : ["Alajuela","Bulevar Aeropuerto","Río Segundo", "San Joaquín de Flores", "San Francisco", "Estación Heredia", "Miraflores", "Santa Rosa", "Colima","Calle Blancos", "Estación Atlántico"],
         "horarios":
         [
           ["06:30","06:35","06:39", "06:45", "06:50", "06:54", "06:58", "07:06", "07:11","07:15","07:20"],
@@ -112,7 +112,7 @@
         "from" : "Estación Atlántico",
         "to" : "Alajuela",
         "operacion": "saturday",
-        "estaciones" : ["Estación Atlántico","Calle Blancos", "Cuatro Reinas", "Santa Rosa", "Miraflores", "Estación Heredia", "San Francisco", "San Joaquín de Flores", "Río Segundo","Bulevar Aeropuerto","Alajuela"],
+        "estaciones" : ["Estación Atlántico","Calle Blancos", "Colima", "Santa Rosa", "Miraflores", "Estación Heredia", "San Francisco", "San Joaquín de Flores", "Río Segundo","Bulevar Aeropuerto","Alajuela"],
         "horarios":
         [
           ["06:30","06:35","06:39","06:44", "06:52", "06:57", "07:00", "07:05", "07:12","07:15","07:20"],
@@ -193,9 +193,7 @@
         "operacion": "weekday",
         "estaciones" : ["Metrópoli", "Demasa", "Pecosa", "Pavas", "Jack's", "AyA", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico"],
         "horarios": [
-          ["07:39", "07:44", "07:46", "07:51", "07:55", "07:58", "08:02", "08:06", "08:10", "08:14"],
-          ["15:44", "15:49", "15:51", "15:56", "16:00", "16:03", "16:07", "16:11", "16:15", "16:19"],
-          ["16:54", "16:59", "17:01", "17:06", "17:10", "17:13", "17:17", "17:21", "17:25", "17:29"]
+          ["07:39", "07:44", "07:46", "07:51", "07:55", "07:58", "08:02", "08:06", "08:10", "08:14"]
         ]
       },
       {
@@ -245,9 +243,9 @@
           ["06:00", "06:21", "06:29", "06:37", "06:41", "06:45", "06:51"],
           ["07:00", "07:21", "07:29", "07:37", "07:41", "07:45", "07:51"],
           ["09:00", "09:21", "09:29", "09:37", "09:41", "09:45", "09:51"],
-	  ["16:30", "16:46", "16:59", "17:07", "17:11", "17:15", "17:21"],
-	  ["17:35", "17:51", "18:04", "18:12", "18:16", "18:20", "18:26"],
-	  ["18:30", "18:46", "18:59", "19:07", "19:11", "19:15", "19:21"]
+          ["16:30", "16:46", "16:59", "17:07", "17:11", "17:15", "17:21"],
+          ["17:35", "17:51", "18:04", "18:12", "18:16", "18:20", "18:26"],
+          ["18:30", "18:46", "18:59", "19:07", "19:11", "19:15", "19:21"]
        ]
       },
       {

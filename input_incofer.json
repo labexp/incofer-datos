@@ -1,5 +1,5 @@
 {
-  "update" : "17.05.2019",
+  "update" : "14.01.2020",
   "itinerario" :
   {
     "2":
@@ -130,7 +130,7 @@
         "from" : "Metrópoli",
         "to" : "CFIA",
         "operacion": "weekday",
-        "estaciones" : ["Metrópoli", "Demasa", "Pecosa", "Pavas", "Jack's", "AyA", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico", "Plaza Víquez", "La Corte", "Estación Atlántico", "UCR", "U. Latina", "CFIA"],
+        "estaciones" : ["Metrópoli", "Demasa", "Pecosa", "Pavas Centro", "Jacks", "Tubo Tico (AyA)", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico", "Plaza Víquez", "La Corte", "Estación Atlántico", "UCR", "U. Latina", "CFIA"],
         "horarios":
         [
           ["15:44", "15:49", "15:51", "15:56", "16:00", "16:03", "16:07", "16:11", "16:15", "16:19", "16:24", "16:29", "16:40", "16:44", "16:48", "16:52"],
@@ -141,7 +141,7 @@
         "from" : "Estación Belén",
         "to" : "Estación Pacífico",
         "operacion": "weekday",
-        "estaciones" : ["Estación Belén", "Pedregal", "Metrópoli", "Demasa", "Pecosa", "Pavas", "Jack's", "AyA", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico"],
+        "estaciones" : ["Estación Belén", "Pedregal", "Metrópoli", "Demasa", "Pecosa", "Pavas Centro", "Jacks", "Tubo Tico (AyA)", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico"],
         "horarios": [
           ["06:10", "06:12", "06:20", "06:25", "06:27", "06:32", "06:36", "06:39", "06:43", "06:47", "06:51", "06:55"],
           ["07:20", "07:22", "07:30", "07:35", "07:37", "07:42", "07:46", "07:49", "07:53", "07:57", "08:01", "08:05"],
@@ -157,7 +157,7 @@
         "from" : "Estación Pacífico",
         "to" : "Estación Belén",
         "operacion": "weekday",
-        "estaciones" : ["Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "AyA", "Jack's", "Pavas", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
+        "estaciones" : ["Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "Tubo Tico (AyA)", "Jacks", "Pavas Centro", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
         "horarios": [
           ["05:15", "05:19", "05:23", "05:26", "05:29", "05:32", "05:35", "05:39", "05:41", "05:45", "05:53", "05:55"],
           ["15:00", "15:04", "15:08", "15:11", "15:14", "15:17", "15:20", "15:24", "15:26", "15:30", "15:38", "15:40"],
@@ -171,7 +171,7 @@
         "from" : "CFIA",
         "to" : "Estación Belén",
         "operacion": "weekday",
-        "estaciones" : ["CFIA", "U. Latina", "UCR", "Estación Atlántico", "La Corte", "Plaza Víquez", "Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "AyA", "Jack's", "Pavas", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
+        "estaciones" : ["CFIA", "U. Latina", "UCR", "Estación Atlántico", "La Corte", "Plaza Víquez", "Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "Tubo Tico (AyA)", "Jacks", "Pavas Centro", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
         "horarios":
         [
           ["06:05", "06:09", "06:13", "06:17", "06:22", "06:27", "06:32", "06:36", "06:40", "06:43", "06:46", "06:49", "06:52", "06:56", "06:58", "07:02", "07:10", "07:12"]
@@ -191,7 +191,7 @@
         "from" : "Metrópoli",
         "to" : "Estación Pacífico",
         "operacion": "weekday",
-        "estaciones" : ["Metrópoli", "Demasa", "Pecosa", "Pavas", "Jack's", "AyA", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico"],
+        "estaciones" : ["Metrópoli", "Demasa", "Pecosa", "Pavas Centro", "Jacks", "Tubo Tico (AyA)", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico"],
         "horarios": [
           ["07:39", "07:44", "07:46", "07:51", "07:55", "07:58", "08:02", "08:06", "08:10", "08:14"]
         ]
@@ -200,7 +200,7 @@
         "from" : "Estación Pacífico",
         "to" : "Metrópoli",
         "operacion": "weekday",
-        "estaciones" : ["Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "AyA", "Jack's", "Pavas", "Pecosa", "Demasa", "Metrópoli"],
+        "estaciones" : ["Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "Tubo Tico (AyA)", "Jacks", "Pavas Centro", "Pecosa", "Demasa", "Metrópoli"],
         "horarios": [
           ["07:05", "07:09", "07:13", "07:16", "07:19", "07:22", "07:25", "07:29", "07:31", "07:35"],
           ["15:10", "15:14", "15:18", "15:21", "15:24", "15:27", "15:30", "15:34", "15:36", "15:40"],
@@ -211,7 +211,7 @@
         "from" : "Estación Atlántico",
         "to" : "Estación Belén",
         "operacion": "weekday",
-        "estaciones" : ["Estación Atlántico", "La Corte", "Plaza Víquez", "Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "AyA", "Jack's", "Pavas", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
+        "estaciones" : ["Estación Atlántico", "La Corte", "Plaza Víquez", "Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "Tubo Tico (AyA)", "Jacks", "Pavas Centro", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
         "horarios":
         [
           ["07:01", "07:06", "07:11", "07:16", "07:20", "07:24", "07:27", "07:30", "07:33", "07:36", "07:40", "07:42", "07:46", "07:54", "07:56"]
@@ -257,7 +257,7 @@
           ["06:30", "06:34", "06:38", "06:42", "06:49", "06:58", "07:22", "07:25"],
           ["07:31", "07:35", "07:39", "07:43", "07:50", "07:59", "08:23", "08:26"],
           ["15:00", "15:04", "15:08", "15:12", "15:19", "15:28", "15:52", "15:55"],
-          ["16:00", "16:04", "16:08", "16:12", "16:19", "16:28", "16:52", "16:55"], 
+          ["16:00", "16:04", "16:08", "16:12", "16:19", "16:28", "16:52", "16:55"],
           ["17:00", "17:04", "17:08", "17:12", "17:19", "17:28", "17:52", "17:55"],
           ["18:00", "18:04", "18:08", "18:12", "18:19", "18:28", "18:52", "18:55"],
           ["18:55", "18:59", "19:03", "19:07", "19:14", "19:23", "19:47", "19:50"]

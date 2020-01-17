@@ -8,7 +8,7 @@
       {
         "from" : "Estación Heredia",
         "to" : "Estación Atlántico",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Heredia", "Miraflores", "Santa Rosa", "Colima","Calle Blancos", "Estación Atlántico"],
         "times":
         [
@@ -27,7 +27,7 @@
       {
         "from" : "Estación Heredia",
         "to" : "U. Latina",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Heredia", "Miraflores", "Santa Rosa", "Colima","Calle Blancos", "Estación Atlántico", "UCR", "U. Latina"],
         "times":
         [
@@ -39,7 +39,7 @@
       {
         "from" : "Alajuela",
         "to" : "Estación Atlántico",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Alajuela", "Bulevar Aeropuerto", "Río Segundo", "San Joaquín de Flores", "San Francisco", "Estación Heredia", "Miraflores", "Santa Rosa", "Colima","Calle Blancos", "Estación Atlántico"],
         "times":
         [
@@ -53,7 +53,7 @@
       {
         "from" : "Estación Atlántico",
         "to" : "Estación Heredia",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Atlántico","Calle Blancos", "Colima", "Santa Rosa", "Miraflores", "Estación Heredia"],
         "times": [
           ["05:25","05:30", "05:34", "05:39", "05:47", "05:52"],
@@ -70,7 +70,7 @@
       {
         "from" : "U. Latina",
         "to" : "Estación Heredia",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["U. Latina", "UCR", "Estación Atlántico","Calle Blancos", "Colima", "Santa Rosa", "Miraflores", "Estación Heredia"],
         "times": [
           ["05:45", "05:49", "05:59","06:04", "06:08", "06:13", "06:21", "06:26"],
@@ -82,7 +82,7 @@
       {
         "from" : "Estación Atlántico",
         "to" : "Alajuela",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Atlántico","Calle Blancos", "Colima", "Santa Rosa", "Miraflores", "Estación Heredia", "San Francisco", "San Joaquín de Flores", "Río Segundo", "Bulevar Aeropuerto", "Alajuela"],
         "times": [
           ["04:45","04:50", "04:54", "04:59", "05:07", "05:12", "05:15", "05:20", "05:27", "05:30", "05:35"],
@@ -95,7 +95,7 @@
       {
         "from" : "Alajuela",
         "to" : "Estación Atlántico",
-        "services": "Sa",
+        "services": [ "Sa" ],
         "stations" : ["Alajuela","Bulevar Aeropuerto","Río Segundo", "San Joaquín de Flores", "San Francisco", "Estación Heredia", "Miraflores", "Santa Rosa", "Colima","Calle Blancos", "Estación Atlántico"],
         "times":
         [
@@ -112,7 +112,7 @@
       {
         "from" : "Estación Atlántico",
         "to" : "Alajuela",
-        "services": "Sa",
+        "services": [ "Sa" ],
         "stations" : ["Estación Atlántico","Calle Blancos", "Colima", "Santa Rosa", "Miraflores", "Estación Heredia", "San Francisco", "San Joaquín de Flores", "Río Segundo","Bulevar Aeropuerto","Alajuela"],
         "times":
         [
@@ -130,7 +130,7 @@
       {
         "from" : "Metrópoli",
         "to" : "CFIA",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Metrópoli", "Demasa", "Pecosa", "Pavas Centro", "Jacks", "Tubo Tico (AyA)", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico", "Plaza Víquez", "La Corte", "Estación Atlántico", "UCR", "U. Latina", "CFIA"],
         "times":
         [
@@ -141,7 +141,7 @@
       {
         "from" : "Estación Belén",
         "to" : "Estación Pacífico",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Belén", "Pedregal", "Metrópoli", "Demasa", "Pecosa", "Pavas Centro", "Jacks", "Tubo Tico (AyA)", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico"],
         "times": [
           ["06:10", "06:12", "06:20", "06:25", "06:27", "06:32", "06:36", "06:39", "06:43", "06:47", "06:51", "06:55"],
@@ -157,7 +157,7 @@
       {
         "from" : "Estación Pacífico",
         "to" : "Estación Belén",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "Tubo Tico (AyA)", "Jacks", "Pavas Centro", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
         "times": [
           ["05:15", "05:19", "05:23", "05:26", "05:29", "05:32", "05:35", "05:39", "05:41", "05:45", "05:53", "05:55"],
@@ -171,7 +171,7 @@
       {
         "from" : "CFIA",
         "to" : "Estación Belén",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["CFIA", "U. Latina", "UCR", "Estación Atlántico", "La Corte", "Plaza Víquez", "Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "Tubo Tico (AyA)", "Jacks", "Pavas Centro", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
         "times":
         [
@@ -181,7 +181,7 @@
       {
         "from" : "CFIA",
         "to" : "Estación Atlántico",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["CFIA", "U. Latina", "UCR", "Estación Atlántico"],
         "times":
         [
@@ -191,7 +191,7 @@
       {
         "from" : "Metrópoli",
         "to" : "Estación Pacífico",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Metrópoli", "Demasa", "Pecosa", "Pavas Centro", "Jacks", "Tubo Tico (AyA)", "La Salle", "Contraloría", "Cementerio", "Estación Pacífico"],
         "times": [
           ["07:39", "07:44", "07:46", "07:51", "07:55", "07:58", "08:02", "08:06", "08:10", "08:14"]
@@ -200,7 +200,7 @@
       {
         "from" : "Estación Pacífico",
         "to" : "Metrópoli",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "Tubo Tico (AyA)", "Jacks", "Pavas Centro", "Pecosa", "Demasa", "Metrópoli"],
         "times": [
           ["07:05", "07:09", "07:13", "07:16", "07:19", "07:22", "07:25", "07:29", "07:31", "07:35"],
@@ -211,7 +211,7 @@
       {
         "from" : "Estación Atlántico",
         "to" : "Estación Belén",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Atlántico", "La Corte", "Plaza Víquez", "Estación Pacífico", "Cementerio", "Contraloría", "La Salle", "Tubo Tico (AyA)", "Jacks", "Pavas Centro", "Pecosa", "Demasa", "Metrópoli", "Pedregal", "Estación Belén"],
         "times":
         [
@@ -223,7 +223,7 @@
       {
         "from" : "Los Ángeles",
         "to" : "Estación Atlántico",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Los Ángeles", "Estación Cartago", "Tres Ríos", "UACA", "CFIA", "U. Latina", "UCR", "Estación Atlántico"],
         "times": [
           ["05:20", "05:30", "05:51", "05:59", "06:07", "06:11", "06:15", "06:21"],
@@ -238,7 +238,7 @@
       {
         "from" : "Estación Cartago",
         "to" : "Estación Atlántico",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Cartago", "Tres Ríos", "UACA", "CFIA", "U. Latina", "UCR", "Estación Atlántico"],
         "times": [
           ["06:00", "06:21", "06:29", "06:37", "06:41", "06:45", "06:51"],
@@ -252,7 +252,7 @@
       {
         "from" : "Estación Atlántico",
         "to" : "Los Ángeles",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Atlántico", "UCR", "U. Latina", "CFIA", "UACA", "Tres Ríos", "Estación Cartago", "Los Ángeles"],
         "times": [
           ["06:30", "06:34", "06:38", "06:42", "06:49", "06:58", "07:22", "07:25"],
@@ -268,7 +268,7 @@
       {
         "from" : "Estación Atlántico",
         "to" : "Estación Cartago",
-        "services": "Mo-Fr",
+        "services": [ "Mo-Fr" ],
         "stations" : ["Estación Atlántico", "UCR", "U. Latina", "CFIA", "UACA", "Tres Ríos", "Estación Cartago"],
         "times": [
           ["07:55", "07:59", "08:03", "08:07", "08:14", "08:23", "08:47"],
@@ -282,7 +282,7 @@
       {
         "from" : "Estación Cartago",
         "to" : "Estación Atlántico",
-        "services": "Sa",
+        "services": [ "Sa" ],
         "stations" : ["Estación Cartago", "Tres Ríos", "UACA", "CFIA", "U. Latina", "UCR", "Estación Atlántico"],
         "times": [
           ["06:30", "06:51", "06:59", "07:07", "07:11", "07:15", "07:21"],
@@ -298,7 +298,7 @@
       {
         "from" : "Estación Atlántico",
         "to" : "Estación Cartago",
-        "services": "Sa",
+        "services": [ "Sa" ],
         "stations" : ["Estación Atlántico", "UCR", "U. Latina", "CFIA", "UACA", "Tres Ríos", "Estación Cartago"],
         "times": [
           ["06:30", "06:34", "06:38", "06:42", "06:49", "06:58", "07:22"],
